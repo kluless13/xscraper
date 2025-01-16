@@ -34,7 +34,7 @@ Pipeline for generating AI character files and training datasets by scraping pub
 ```bash
 npm run twitter -- username
 ```
-Example: `npm run twitter -- pmarca`
+Example: `npm run twitter -- bettyAI`
 
 ### Blog Collection
 ```bash
@@ -45,7 +45,7 @@ npm run blog
 ```bash
 npm run character -- username
 ```
-Example: `npm run character -- pmarca`
+Example: `npm run character -- bettyAI`
 
 ### Finetune
 ```bash
